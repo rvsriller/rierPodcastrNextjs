@@ -2,6 +2,6 @@
 
 ###### [Rocketseat](https://rocketseat.com.br)
 
-Building...
+Building App...
 
 ![](/public/Aula2.png)
