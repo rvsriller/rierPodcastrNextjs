@@ -24,6 +24,13 @@
 @media (max-width: 1920px) {
   html {
     max-width: 1920px;
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 1366) {
+  html {
+    max-width: 1366;
     font-size: 80%;
   }
 }
