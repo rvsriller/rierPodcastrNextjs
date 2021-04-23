@@ -4,8 +4,10 @@ yarn add typescript @types/react @types/node -D
 
 yarn add sass
 
-yarn add date-fns
+yarn add date-fns to format date
 
 yarn add json-server -D
 
-yarn add axios
+yarn add axios to use router
+
+yarn add rc-slider to add animation for slider
