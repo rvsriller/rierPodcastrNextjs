@@ -11,3 +11,9 @@ yarn add json-server -D
 yarn add axios to use router
 
 yarn add rc-slider to add animation for slider
+
+Tokens
+1: missaoespacial
+2: embuscadoproximonivel
+3: astronautas
+4: universoinfinito
