@@ -8,7 +8,7 @@ import { convertDurationToTimeString } from '../utils/convertDurationToTimeStrin
 
 import styles from './home.module.scss';
 import { usePlayer } from '../contexts/PlayerContext';
-import { Head } from 'next/head';
+import Head from 'next/head';
 
 type Episode = {
   id: string;
