@@ -36,6 +36,8 @@ export function Player() {
     }
   }, [isPlaying])
 
+
+  
   const episode = episodeList[currentEpisodeIndex]
 
   return (
